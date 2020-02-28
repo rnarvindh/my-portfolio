@@ -102,6 +102,7 @@ header {
     max-width:960px;
     margin:0 auto;
     padding:8% 0;
+    font-family:'spartan';
 }
 
 .intro h1 {
@@ -153,6 +154,7 @@ header {
 .work {
     height:300px;
     padding:2% 0;
+    width:-moz-fit-content;
 }
 
 .work h3 {
